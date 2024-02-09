@@ -1,5 +1,5 @@
 a = 15 
-b = 80
+b = 46
 c = 35
 x = a + b + c
 print ( x )
